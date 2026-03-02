@@ -16,7 +16,7 @@ O objetivo é praticar conceitos básicos e intermediários de programação, co
 - Organização de código em pacotes e classes  
 
 ## Estrutura do projeto
-Os exercícios estão organizados em pacotes dentro da pasta exercicios-java, cada um abordando diferentes tópicos da linguagem.
+Os exercícios estão organizados em pacotes dentro da pasta javacore, cada um abordando diferentes tópicos da linguagem.
 
 
 ## Objetivo
