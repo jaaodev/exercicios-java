@@ -1,11 +1,17 @@
 //Sobrecarga de métodos
 
-package poo.sobrecargaMetodos.domain;
+package javacore.construtores.domain;
 
 public class Anime {
     private String nome;
     private String genero;
     private int episodios;
+
+    public Anime(String nome,  String genero, int episodios) {
+        this.nome = nome;
+        this.genero = genero;
+        this.episodios = episodios;
+    }
 
     public void init(String nome, int episodios) {
         this.nome = nome;

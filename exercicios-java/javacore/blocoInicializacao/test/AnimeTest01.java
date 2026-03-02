@@ -1,6 +1,6 @@
-package poo.blocoInicializacao.test;
+package javacore.blocoInicializacao.test;
 
-import poo.blocoInicializacao.domain.Anime;
+import javacore.blocoInicializacao.domain.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

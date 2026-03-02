@@ -1,6 +1,6 @@
-package poo.construtores.test;
+package javacore.construtores.test;
 
-import poo.construtores.domain.Anime;
+import javacore.construtores.domain.Anime;
 
 public class AnimeTest {
     public static void main(String[] args) {

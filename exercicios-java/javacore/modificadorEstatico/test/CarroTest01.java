@@ -1,6 +1,6 @@
-package poo.modificadorEstatico.test;
+package javacore.modificadorEstatico.test;
 
-import poo.modificadorEstatico.domain.Carro;
+import javacore.modificadorEstatico.domain.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {

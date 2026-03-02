@@ -1,4 +1,4 @@
-package poo.sobrecargaMetodos.domain;
+package javacore.sobrecargaMetodos.domain;
 
 public class Funcionario {
     public String nome;

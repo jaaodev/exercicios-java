@@ -1,4 +1,4 @@
-package poo.modificadorEstatico.domain;
+package javacore.modificadorEstatico.domain;
 
 public class Carro {
     private String nome;

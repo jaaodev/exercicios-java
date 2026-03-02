@@ -1,6 +1,6 @@
-package poo.sobrecargaMetodos.test;
+package javacore.sobrecargaMetodos.test;
 
-import poo.sobrecargaMetodos.domain.Funcionario;
+import javacore.sobrecargaMetodos.domain.Funcionario;
 
 public class FuncionarioTest {
         public static void main(String[] args) {

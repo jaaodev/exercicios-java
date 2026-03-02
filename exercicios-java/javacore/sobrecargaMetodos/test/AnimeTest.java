@@ -1,6 +1,6 @@
-package poo.sobrecargaMetodos.test;
+package javacore.sobrecargaMetodos.test;
 
-import poo.sobrecargaMetodos.domain.Anime;
+import javacore.sobrecargaMetodos.domain.Anime;
 
 public class AnimeTest {
     public static void main(String[] args) {
