@@ -1,1 +1,0 @@
-Fiz esse pequeno projeto com o intuíto de por em prática os aprendizados do exercicío de assossiação da aula 70 do curso Maratona Java do devDojo utilizando o Scanner pra interagir com o usuário, tive auxilio do Copilot para criar o Menu e os métodos dele.
